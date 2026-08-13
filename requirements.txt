@@ -1,0 +1,16 @@
+numpy
+pandas
+Jinja2
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
+pymc
+arviz
+arviz-plots
+bambi
+pingouin
+ipykernel
+econml
+patsy
